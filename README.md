@@ -3,9 +3,12 @@
 青少年CTF训练平台最早创建于2018年，原名“中学生CTF”，于2022年9月更名为青少年CTF。隶属于思而听（山东）网络科技有限公司，由思而听（山东）网络科技有限公司与克拉玛依市思而听网络科技有限公司进行建设。是国内首个面向青少年的公益CTF平台。
 
 ### 我们的站
-青少年CTFCTF平台：https://www.qsnctf.com\
-青少年CTF论坛：https://bbs.qsnctf.com\
-青少年CTF在线工具：https://tools.qsnctf.com\
+青少年CTFCTF平台：https://www.qsnctf.com
+
+青少年CTF论坛：https://bbs.qsnctf.com
+
+青少年CTF在线工具：https://tools.qsnctf.com
+
 青少年CTF文库：https://docs.qsnctf.com
 
 ### 联系我们
